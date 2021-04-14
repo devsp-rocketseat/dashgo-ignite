@@ -13,7 +13,7 @@ export function Profile({ showProfileData = true }: ProfileProps) {
 
           <Text color="gray.300" fontSize="small">
             contatodevsp@gmail.com
-        </Text>
+          </Text>
         </Box>
       )}
 
